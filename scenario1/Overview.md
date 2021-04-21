@@ -25,4 +25,6 @@ Members of the National Guard Cyberdefense team can use this scenario as an entr
 
 **VMWare vSphere**: A cloud computing virtualization platform that allows users to set up and manage various computing resources/infrastructures. This was used to create environments for the Apache Web Server and the Active Directory.
 
+[Main Menu](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation)
+
 Author: Vinh
