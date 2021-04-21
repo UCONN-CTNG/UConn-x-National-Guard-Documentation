@@ -20,3 +20,5 @@ Members of the National Guard Cyberdefense team can use this scenario as a train
 **Netcat**: A computer networking utility for reading from and writing to network connections using TCP or UDP.
 
 **7-Zip**: A free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives".
+
+[Main Menu](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation)
