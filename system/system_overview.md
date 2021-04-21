@@ -6,8 +6,8 @@ date: 2020-11-22
 author: Dylan
 ---
 
-- [Infrastructure](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview)
-- [Network](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/network_overview)
+- [Infrastructure](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview)
+- [Network](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/network_overview)
 
 
-[Main Menu](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation)
+[Main Menu](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation)
