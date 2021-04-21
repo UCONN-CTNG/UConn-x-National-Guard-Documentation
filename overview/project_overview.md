@@ -18,4 +18,4 @@ The Connecticut National Guard (CTNG) Cyber Range is a cloud-hosted cyber range 
 ## Dependecies:
 The cyberrange has been setup on hardware belonging to the CTNG. The vCenter instance that houses the cyberrange already contains various different servers and virtual machine instances, but the team is free to create and use their own instances. This vCenter instance can be accessed through a jump server after connecting through a Meraki VPN with the provided credentials. The cyberrange, all hardware, the VPN, and the jump server are all owned, adminstratively controlled, and maintained by the CTNG. 
 
-[Main Menu](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation)
+[Main Menu](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation)
