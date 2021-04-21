@@ -19,9 +19,9 @@ Connect-VIServer -Server $vCenterHostName
 ```
 “$vCenterHostName” refers to the hostname of the vCenter being connected to. From there, the following basic parameters will need to be provided (either as variables or strings in-line): VM name, template name, VLAN, ESXI host to provision VM on, datastore (disk location where VM will be created), folder (folder in vCenter where the VM should be placed...this is purely for organizational purposes), customization specification (if used), IP address (if setting a static IP address...not needed for DHCP - dynamic host configuration protocol), subnet mask (also needed if setting a static IP), gateway address (also needed if setting a static IP), and DNS server(s) (also needed if setting a static IP). All of these parameters can be gathered either from within vCenter or via the network diagrams above. An operating system can also be specified, or that can just be derived from the template. For demo 1, the latter was done.
 
-More information on the VMware infrastructure and available resources can be found here: [https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview/](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview/).
+More information on the VMware infrastructure and available resources can be found here: [https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview/](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/infrastructure_overview/).
 
-More information on the network infrastructure and available VLANs/IP subnets can be found here: [https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/network_overview/](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation/network_overview/).
+More information on the network infrastructure and available VLANs/IP subnets can be found here: [https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/network_overview/](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/network_overview/).
 
 After all of the variables are set, then if using a static IP address and a customization specification, then the next step is to create a temporary specification containing the static IP address information specified in the variables previously. The commands for that go as follows:
 ```
@@ -47,4 +47,4 @@ Invoke-VMScript -VM $vmName -ScriptText ‘Insert Command Line Text Here’ -Scr
 “-ScriptText” is where the command to be run on the VM’s OS is specified and “-ScriptType” is where the type of command line interface should be specified. Options for this include PowerShell, Bat (Windows Command Prompt), and Bash (Linux). After all of the desired commands have been run on the VM’s OS, then the VM is finished deploying and should be available to be used.
 
 
-[Main Menu](https://christophergeiger3.github.io/UConn-x-National-Guard-Documentation)
+[Main Menu](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation)
