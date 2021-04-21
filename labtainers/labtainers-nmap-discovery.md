@@ -18,7 +18,7 @@ First, launch the nmap-discovery lab, and open the corresponding pdf, using the
 labtainers nmap-discovery
 ```
 
-command, as denoted in the [quickstart guide](https://github.com/UConn-x-National-Guard-Documentation/labtainers/quickstart).
+command, as denoted in the [quickstart guide](https://uconn-ctng.github.io/UConn-x-National-Guard-Documentation/labtainers/quickstart/).
 
 After hitting enter to start the lab, two new terminal windows should appear, one of which containing instructions for the lab, and the other of which containing the phrase
 
