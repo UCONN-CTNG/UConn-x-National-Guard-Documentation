@@ -7,7 +7,7 @@ author: Dylan
 ---
 # Extreme Programming Lifecycle
 Our bi-weekly meetings with our corporate sponsor provide a perfect timeframe for our development cycle since we must have working software to present every two weeks. The iteration cycle of Extreme Programming can be seen below.
-![Figure 1](https://github.com/christophergeiger3/UConn-x-National-Guard-Documentation/blob/4c1029ca1f597ef21f6c7c2daefad12032981585/methodology/lifecycle.png)
+![Figure 1](https://user-images.githubusercontent.com/82845229/115589017-398f2f80-a284-11eb-8356-f6432a02e12c.png)
 
 ## Release Plan
 The overall project must be completed by our graduation in May 2021 so this provides a strict deadline. However, a more fluid release plan that we are implementing is to complete each cyber range scenario in approximately two months. This is not strict and we are more focused on the quality of each scenario. 
